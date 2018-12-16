@@ -10,3 +10,4 @@ class square(shape):
 
 a_sq = square(20, 25)
 a_sq.print_size()
+print("git")
